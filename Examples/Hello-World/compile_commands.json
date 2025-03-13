@@ -1,0 +1,7 @@
+[
+    {
+      "directory": "<ABSOLUTE PATH TO interdimensional-swift>/Examples/Hello-World",
+      "command": "swiftc source/game.swift -parse-as-library -enable-experimental-feature Embedded -target armv6-none-none-eabi -no-allocations -import-objc-header source/Bridging-Header.h -I <PATH TO DEVKITARM>/include -I <PATH TO DEVKITARM>/arm-none-eabi/include -I <PATH TO DEVKITPRO>/libctru/include",
+      "file": "source/game.swift"
+    }
+]

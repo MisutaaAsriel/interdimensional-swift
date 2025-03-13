@@ -1,3 +1,7 @@
+*Special thanks to [Finn Voorhees](https://github.com/finnvoor) for [swift-switch-examples](https://github.com/finnvoor/swift-switch-examples), which helped provide a reference point for what changes needed to be made to makefiles in order to compile. Thanks also to [Ben Barham](https://forums.swift.org/u/bnbarham) of the Swift.org forums for instructions on [how to configure the SourceKit-LSP for completion and syntax-highlighting in non-SwiftPM projects](https://forums.swift.org/t/vscode-bridging-headers-with-intellisense-in-simple-embedded-project/78470/2).*
+
+&nbsp;
+
 # Interdimensional Swift
 ### It's Swift... on the Nintendo 3DS!
 

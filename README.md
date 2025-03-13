@@ -130,8 +130,7 @@ struct Game {
         consoleInit(GFX_TOP, nil)
 
     	print("Hello from Swift!")
-
-	    print("Press B to exit.")
+	print("Press B to exit.")
 
         while(aptMainLoop()) {
             hidScanInput()
